@@ -1,2 +1,3 @@
-# leetcode
-just sum leetcode stuff
+# leetcode practice
+
+### The solutions are in `solutions`
